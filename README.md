@@ -15,7 +15,7 @@ Soy un futuro ingeniero de sistemas, me gusta escuchar musica de todo tipo pero 
 ---
 
 ## 📫 Cómo contactarme
-- ✉️ Email: [gomejd15@gmail.com](https://mail.google.com/mail/u/0/?hl=es#inbox)
+- ✉️ Email: [gomejd15@gmail.com]
 - 📘 Facebook: [Jesus Gomez](https://www.facebook.com/jesusdavid.gomezcarreno)
 - 📸 Instagram: [gomejd22](https://www.instagram.com/gomejd22/)
 - 🐦 X: [Jesus Gomez](https://x.com/gomezdj18)
@@ -39,4 +39,4 @@ Soy un futuro ingeniero de sistemas, me gusta escuchar musica de todo tipo pero 
 
 *Gracias por visitar mi perfil!*
 
-![Footer](https://siaguanta.com/wp-content/uploads/2020/01/arreglos4.jpg)
+![Footer](https://fondosmil.co/fondo/52714.jpg)
